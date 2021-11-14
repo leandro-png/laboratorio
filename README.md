@@ -1,1 +1,1 @@
-# se creó el repositorio POPO
+# Ensayos de medidores, equipos de medicion, busqueda x cliente etc etc
